@@ -63,7 +63,7 @@ def is_empty(my_sequence):
 
     if count != 0:
         return False
-    elif count = 0:
+    elif count == 0:
         return True        
     elif count = NULL
         return 'TypeError: oject has no len()'
