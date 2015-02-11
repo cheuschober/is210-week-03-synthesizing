@@ -68,10 +68,9 @@ def is_empty(my_sequence):
             return False
         return False
     else:
-        return 'TypeError: oject has no len()'    
+        return 'TypeError: oject has no len()'
 
 TEST = ''
 
 print len(TEST)
 print is_empty(TEST)
-
