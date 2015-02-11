@@ -74,3 +74,4 @@ TEST = ''
 
 print len(TEST)
 print is_empty(TEST)
+print is_empty(2)
